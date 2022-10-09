@@ -1,0 +1,87 @@
+/* header */
+
+.logo1 {
+    color: #2196F3;
+}
+
+.logo2 {
+    color: #212121;
+}
+
+.logo3 {
+    color: #FFFFFF;
+}
+
+/* navigation */
+
+.nav-one {
+    color: #2196F3;
+}
+
+.nav-two {
+    color: #212121;
+}
+
+/* kontacts */
+
+.mail {
+    color: #2196F3;
+}
+
+.phone {
+    color: #757575;;
+}
+
+/* hero */
+
+.hero {
+    background-color: #2F303A;
+    
+}
+
+.hero-title {
+    color: #FFFFFF;
+}
+
+.button {
+    background-color: #2196F3;
+}
+
+.button-text {
+    color: #FFFFFF;
+}
+
+.section {
+    color: #757575;
+}
+
+.section-title, 
+.section-title2 
+{
+    color: #212121;
+}
+
+.name {
+    color: #212121;
+}
+
+/* footer */
+
+.footer {
+    background-color: #212121;
+}
+
+.adress {
+    color: #FFFFFF;
+}
+
+.contacts {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+ /* бекграунд #FFFFFF */
+ /* колір 1 секції з заголовком #2F303A */
+ /* колір секції наша команда #F5F4FA */
+ /* основний колір тексту #757575 */
+ /* колір підзаголовків #212121 */
+ /* фоновий колір тексту і кнопок #2196F3 */
